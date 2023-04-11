@@ -1,1 +1,5 @@
 # CanSat-Clorito-de-Zinc
+
+Este repositorio contiene el informe y el código fuente del proyecto CanSat, el cual es una competición anual en la que equipos de estudiantes diseñan y construyen pequeños satélites en forma de lata para simular el diseño, lanzamiento y operación de un satélite real en una escala más pequeña. Los CanSats contienen sensores y dispositivos electrónicos para recopilar datos ambientales y llevar a cabo misiones específicas. Los equipos deben lanzar sus CanSats desde un globo meteorológico y recopilar los datos de la misión. 
+
+En el informe se detalla el proceso de desarrollo del proyecto, incluyendo la metodología utilizada, los desafíos encontrados y las soluciones propuestas. El código está organizado en [estructura de los archivos y carpetas], y se incluyen [detallar las dependencias o requerimientos necesarios para ejecutar el código]. Este proyecto fue realizado por el equipo Clorito de Zinc. El proyecto CanSat es una oportunidad para que los estudiantes desarrollen habilidades STEM y de trabajo en equipo, y reciban comentarios de expertos en la industria aeroespacial.
