@@ -1,6 +1,8 @@
-# Proyecto CanSat
+# Proyecto CanSat - Clorito de Cinc
 
-Este es el repositorio del proyecto CanSat. El objetivo de este proyecto es diseñar y construir un pequeño satélite en forma de lata para simular el diseño, lanzamiento y operación de un satélite real en una escala más pequeña y accesible para los estudiantes.
+Este es el repositorio del proyecto CanSat del equipo Clorito de Cinc del instituto IES Almicerán. El objetivo de este proyecto es diseñar y construir un pequeño satélite en forma de lata para simular el diseño, lanzamiento y operación de un satélite real en una escala más pequeña y accesible para los estudiantes.
+
+![LOGO SOLO CLORITO VECTORES 4 ABR 2023](https://user-images.githubusercontent.com/130385527/231231283-511eec08-6fb3-44bf-b5ec-fb8b7dd12bf7.png)
 
 ## Descripción del proyecto
 
