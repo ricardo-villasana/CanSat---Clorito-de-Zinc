@@ -29,6 +29,6 @@ El proyecto CanSat requier los siguientes elementos:
 
 **Para para obtener información más completa sobre los componentes físicos y electrónicos necesarios, las bibliotecas requeridas, las versiones de software necesarias y cualquier dependencia, consulte el informe crítico adjunto.**
 
-##Licencia
+## Licencia
 
 Este proyecto se distribuye bajo la licencia *[Nombre de licencia]*. Consulta el archivo LICENSE para obtener más detalles.
