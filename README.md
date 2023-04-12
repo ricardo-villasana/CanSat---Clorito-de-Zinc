@@ -2,7 +2,7 @@
 
 Este es el repositorio del proyecto CanSat del equipo Clorito de Cinc del instituto IES Almicerán. El objetivo de este proyecto es diseñar y construir un pequeño satélite en forma de lata para simular el diseño, lanzamiento y operación de un satélite real en una escala más pequeña y accesible para los estudiantes.
 
-![LOGO SOLO CLORITO VECTORES 4 ABR 2023](https://user-images.githubusercontent.com/130385527/231231283-511eec08-6fb3-44bf-b5ec-fb8b7dd12bf7.png)
+<img src="https://user-images.githubusercontent.com/130385527/231231283-511eec08-6fb3-44bf-b5ec-fb8b7dd12bf7.png" width="500" height="500">
 
 ## Descripción del proyecto
 
@@ -33,4 +33,4 @@ El proyecto CanSat requier los siguientes elementos:
 
 ## Licencia
 
-Este proyecto se distribuye bajo la licencia *[Nombre de licencia]*. Consulta el archivo LICENSE para obtener más detalles.
+Este proyecto se distribuye bajo la licencia GPL v3. Consulta el archivo LICENSE para obtener más detalles.
