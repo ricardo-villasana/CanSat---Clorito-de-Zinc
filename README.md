@@ -18,8 +18,7 @@ El objetivo del proyecto CanSat es fomentar el interés de los estudiantes en la
 El repositorio se organiza de la siguiente manera:
 
 - docs: Este directorio contiene la documentación del proyecto.
-- src: Este directorio contiene el código fuente del proyecto. Los archivos se organizan por lenguaje de programación utilizado.
-- data: Este directorio contiene los datos recopilados por los CanSats durante las misiones.
+- src: Este directorio contiene el código fuente del proyecto.
 - README.md: Este archivo es una descripción del proyecto y cómo se organiza el repositorio.
 
 # Requisitos del proyecto
