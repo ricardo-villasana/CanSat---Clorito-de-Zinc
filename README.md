@@ -29,7 +29,7 @@ El proyecto CanSat requier los siguientes elementos:
 - El entorno de desarrollo integrado Arduino IDE.
 - Microcontrolador Arduino UNO.
 - Sensores físicos.
-- Diseños y construcción de la estructura del CanSat y de paracaídas para el lanzamiento.
+- Diseños y construcción de la estructura del CanSat y del paracaídas para el lanzamiento.
 - Una conexión a Internet para compartir y sincronizar el código y los recursos del proyecto.
 
 **Para para obtener información más completa sobre los componentes físicos y electrónicos necesarios, las bibliotecas requeridas, las versiones de software necesarias y cualquier dependencia, consulte el informe crítico adjunto.**
