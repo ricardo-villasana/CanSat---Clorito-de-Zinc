@@ -2,9 +2,12 @@
 
 Este es el repositorio del proyecto CanSat del equipo Clorito de Cinc del instituto IES Almicerán. El objetivo de este proyecto es diseñar y construir un pequeño satélite en forma de lata para simular el diseño, lanzamiento y operación de un satélite real en una escala más pequeña y accesible para los estudiantes.
 
-<img src="https://user-images.githubusercontent.com/130385527/231231283-511eec08-6fb3-44bf-b5ec-fb8b7dd12bf7.png" width="500" height="500">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/130385527/231512902-8ea4875d-e8bd-4ff8-8a81-9c757a90b1eb.png" width="500" height="500" alt="Sublime's custom image"/>
+</p>
 
 ## Descripción del proyecto
+
 
 El proyecto CanSat es una competición anual de ciencia y tecnología en la que equipos de estudiantes diseñan y construyen un pequeño satélite en forma de lata, conocido como "CanSat". Los equipos deben diseñar y construir sus propios CanSats y luego lanzarlos desde una altura de alrededor de 1 km utilizando un globo meteorológico. Una vez en el aire, los CanSats deben recopilar datos de la temperatura, la presión, la humedad y otros parámetros ambientales, así como llevar a cabo misiones específicas según las especificaciones del proyecto.
 
