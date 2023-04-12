@@ -19,7 +19,7 @@ El repositorio se organiza de la siguiente manera:
 
 - docs: Este directorio contiene la documentación del proyecto.
 - src: Este directorio contiene el código fuente del proyecto. Los archivos se organizan por lenguaje de programación utilizado.
-- data: Este directorio contiene los datos recopilados por los CanSats durante las misiones. Los archivos se organizan por fecha de la misión.
+- data: Este directorio contiene los datos recopilados por los CanSats durante las misiones.
 - README.md: Este archivo es una descripción del proyecto y cómo se organiza el repositorio.
 
 # Requisitos del proyecto
